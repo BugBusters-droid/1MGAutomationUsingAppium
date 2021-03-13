@@ -1,0 +1,19 @@
+2021-03-10 09:35:55:605 [Appium] Welcome to Appium v1.20.2
+2021-03-10 09:35:55:606 [Appium] Non-default server args:
+2021-03-10 09:35:55:607 [Appium]   port: 45373
+2021-03-10 09:35:55:607 [Appium]   sessionOverride: true
+2021-03-10 09:35:55:607 [Appium]   logFile: /Users/venkatesh.u/eclipse-Venkatesh-1MG/1MGMobileAutomation/service.log
+2021-03-10 09:35:55:608 [Appium]   relaxedSecurityEnabled: true
+2021-03-10 09:35:55:633 [Appium] Appium REST http interface listener started on 0.0.0.0:45373
+2021-03-10 09:35:55:866 [HTTP] --> GET /wd/hub/status
+2021-03-10 09:35:55:866 [HTTP] {}
+2021-03-10 09:35:55:868 [GENERIC] Calling AppiumDriver.getStatus() with args: []
+2021-03-10 09:35:55:868 [GENERIC] Responding to client with driver.getStatus() result: {"build":{"version":"1.20.2"}}
+2021-03-10 09:35:55:873 [HTTP] <-- GET /wd/hub/status 200 5 ms - 68
+2021-03-10 09:35:55:873 [HTTP] 
+2021-03-10 09:35:55:878 [HTTP] --> GET /wd/hub/status
+2021-03-10 09:35:55:878 [HTTP] {}
+2021-03-10 09:35:55:879 [GENERIC] Calling AppiumDriver.getStatus() with args: []
+2021-03-10 09:35:55:879 [GENERIC] Responding to client with driver.getStatus() result: {"build":{"version":"1.20.2"}}
+2021-03-10 09:35:55:880 [HTTP] <-- GET /wd/hub/status 200 2 ms - 68
+2021-03-10 09:35:55:880 [HTTP] 
